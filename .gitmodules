@@ -1,0 +1,6 @@
+[submodule "crab-iot"]
+	path = crab-iot
+	url = https://github.com/arturocs/crab-iot
+[submodule "autoevaluacion-CC"]
+	path = autoevaluacion-CC
+	url = https://github.com/arturocs/autoevaluacion-CC
